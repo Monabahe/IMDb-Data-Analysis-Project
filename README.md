@@ -11,6 +11,7 @@ This repository hosts a data analysis project focused on IMDb movies data. The p
 
 ## Files
 - `Web scraping movies.py`: Python script for web scraping IMDb data.
+- `movies data.csv`: a csv fle containing the scraped data.
 - `IMDB MOVIES DASHBOARD.pbix`: Power BI dashboard file showcasing the analysis of IMDb movies data.
 - `README.md`: Documentation providing an overview of the project, instructions for setup, and usage guidelines.
 
